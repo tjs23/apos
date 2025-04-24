@@ -22,6 +22,7 @@ Expand
 ## Setup
 
 * [Done] Fix IHS first; for baseline comparison
-* Update species; proteins and genomes
+* Rolling update species; proteins and genomes
+* Get training data; seqs to idx format; UniRef, synthetic
 * Latent Vecs
 * Update phylo tree
