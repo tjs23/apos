@@ -4,7 +4,7 @@
 
 Allows any protein sequence query; partial, out-of-clade, chimeric
 Query anchored for orthology
-Phylogenetically anchored
+Phylogenetically anchored results
 TBLASTN checks for missing annotations
 Include close paralogues
 On-demand clustering
@@ -21,7 +21,7 @@ Expand
 
 ## Setup
 
-Fix IHS first; for baseline comparison
-Phylo tree
-Species, proteomes, genomes
-LVs
+* [Done] Fix IHS first; for baseline comparison
+* Update species; proteins and genomes
+* Latent Vecs
+* Update phylo tree
